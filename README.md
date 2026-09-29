@@ -94,17 +94,23 @@ Existing Todo tasks can be filtered and updated.
 
 The filter functionality lets users filter and view any number of tasks.
 
+<img width="949" height="413" alt="5" src="https://github.com/user-attachments/assets/03d443e0-b062-43e5-bcd1-cd6beff11864" />
+
 ## 🗑️ Delete Todo
 
 Users can remove Todo tasks from the list.
 
 A toast notification is displayed to provide feedback after deleting a task.
 
+
+
 ## ✅ Completed Todos
 
 Users can mark Todo tasks as completed.
 
 Completed tasks are visually different from active tasks, making it easier to manage and track progress.
+
+https://github.com/user-attachments/assets/5f10dde3-9c32-4f4e-91ae-6306bd4a6471
 
 ## 🧭 Header
 
