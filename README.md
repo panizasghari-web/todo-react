@@ -1,6 +1,6 @@
 # react-todo-router
 
-[Live Demo](YOUR_LIVE_DEMO_URL)
+[Live Demo](https://panizasghari-web.github.io/todo-react/)
 
 # React ToDo Management App 🚀
 
@@ -78,13 +78,13 @@ Receive feedback through toast notifications
 
 Users can add new Todo tasks through a simple form.
 
-After creating a Todo, the task is added to the Todo list and the user receives feedback through a toast notification.
+After creating a Todo, the task is added to the Todo list, and the user receives feedback through a toast notification.
 
 ## ✏️ Edit Todo
 
-Existing Todo tasks can be edited and updated.
+Existing Todo tasks can be filtered and updated.
 
-The edit functionality allows users to modify the task instead of creating a new one.
+The filter functionality lets users filter and view any number of tasks.
 
 ## 🗑️ Delete Todo
 
@@ -130,7 +130,7 @@ Complete or update a Todo
 
 ## 🌍 Live Demo
 
-🚀 Live Demo: YOUR_LIVE_DEMO_URL
+🚀 Live Demo: https://panizasghari-web.github.io/todo-react/
 
 ## 🎯 Purpose of the Project
 
