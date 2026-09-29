@@ -2,6 +2,8 @@
 
 [Live Demo](https://panizasghari-web.github.io/todo-react/)
 
+⚠️ Important: If the website doesn't load or the API requests don't work correctly, please make sure your VPN is turned on and try again.
+
 # React ToDo Management App 🚀
 
 A simple and practical React.js training project built to practice working with React Router, CRUD operations, reusable components, and modern UI styling.
