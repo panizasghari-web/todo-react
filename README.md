@@ -56,6 +56,8 @@ A simple landing page containing navigation links to the different sections of t
 
 The Home page provides an overview of the application and allows users to navigate through the Todo sections.
 
+<img width="959" height="413" alt="1" src="https://github.com/user-attachments/assets/5b9cecfe-2e8d-4897-9da5-9a0ff405a958" />
+
 ## 📝 Todos
 
 The Todo section is the main part of the application.
@@ -76,13 +78,17 @@ Manage active and completed tasks
 
 Receive feedback through toast notifications
 
+<img width="947" height="412" alt="2" src="https://github.com/user-attachments/assets/846eb688-a8da-481f-b177-4b36d3efc186" />
+
 ## ➕ Add Todo
 
 Users can add new Todo tasks through a simple form.
 
 After creating a Todo, the task is added to the Todo list, and the user receives feedback through a toast notification.
 
-## ✏️ Edit Todo
+<img width="948" height="322" alt="3" src="https://github.com/user-attachments/assets/f2af0668-b4bf-4c57-a518-0523edfd4d12" />
+
+## ✏️ Filter Todo
 
 Existing Todo tasks can be filtered and updated.
 
