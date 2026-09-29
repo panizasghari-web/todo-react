@@ -102,7 +102,7 @@ Users can remove Todo tasks from the list.
 
 A toast notification is displayed to provide feedback after deleting a task.
 
-
+https://github.com/user-attachments/assets/fa3d3db5-659c-4ec4-b867-0d791ba7f9c6
 
 ## ✅ Completed Todos
 
