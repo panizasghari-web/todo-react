@@ -50,6 +50,8 @@ React Toastify
 
 JavaScript
 
+JSONPlaceholder
+
 ## 🏠 Home
 
 A simple landing page containing navigation links to the different sections of the Todo application.
